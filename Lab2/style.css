@@ -1,0 +1,13 @@
+h1 {
+  color: brown;
+  border-left: 6px solid brown;
+}
+
+.flex-container {
+  display: flex;
+  gap: 20px;
+}
+
+p {
+  width: 400px;
+}
